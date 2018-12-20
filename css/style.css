@@ -5,8 +5,8 @@ h1 {
 #cart {
     display: flex;
     justify-content: center;
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
 }
 
 .column {
@@ -63,4 +63,8 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+}
+body{
+    background-color:grey;
+    color:white;
 }
